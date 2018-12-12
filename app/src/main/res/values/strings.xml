@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">AutoCompleteTextView</string>
+    <string name="ecn">Enter Country Name </string>
+    <string name="esn">Enter State Name</string>
+    <string name="gr">Get Result</string>
+    <string name="er">Election Result</string>
+
+
+    <string-array name="Countrylist">
+
+        <item>India</item>
+        <item>China</item>
+        <item>Japan</item>
+        <item>Pakistan</item>
+        <item>Africa</item>
+        <item>Australia</item>
+        <item>England</item>
+
+
+    </string-array>
+
+
+    <string-array name="Statelist">
+
+        <item>Telangana</item>
+        <item>Bihar</item>
+        <item>Goa</item>
+        <item>Gujarat</item>
+        <item>Andhrapradesh</item>
+        <item>Haryana</item>
+        <item>Chattisgarh</item>
+        <item>Assam</item>
+        <item>Kerala</item>
+        <item>Karnataka</item>
+
+
+    </string-array>
+</resources>
